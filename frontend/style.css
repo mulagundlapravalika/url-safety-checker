@@ -1,0 +1,25 @@
+body {
+  background: linear-gradient(to right, #141e30, #243b55);
+  color: white;
+  font-family: Arial;
+  text-align: center;
+}
+
+.container {
+  margin-top: 120px;
+}
+
+input {
+  padding: 10px;
+  width: 300px;
+  border-radius: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  margin-top: 10px;
+  background: #00ffcc;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
