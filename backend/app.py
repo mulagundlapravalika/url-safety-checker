@@ -36,7 +36,7 @@ def home():
     return "URL Safety Checker API is Running ✅"
 
 # 🔐 MAIN API ROUTE (POST ONLY)
-@app.route("/check", methods=["POST"])
+@app.route("/predict", methods=["POST"])
 def check_url():
     data = request.get_json()
     url = data.get("url", "").lower()
