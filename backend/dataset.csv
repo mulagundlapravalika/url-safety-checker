@@ -1,0 +1,11 @@
+url,label
+https://google.com,safe
+https://github.com,safe
+https://openai.com,safe
+http://fakebank-login.com,malicious
+http://phishing-site.net,malicious
+http://free-money.xyz,malicious
+https://amazon.com,safe
+http://hack-account.ru,malicious
+https://microsoft.com,safe
+http://win-prize.click,malicious
